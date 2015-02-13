@@ -2,8 +2,8 @@
   "name": "paper-radio-button",
   "private": true,
   "dependencies": {
-    "core-a11y-keys": "Polymer/core-a11y-keys#master",
-    "paper-ripple": "Polymer/paper-ripple#master"
+    "core-a11y-keys": "Polymer/core-a11y-keys#^0.5",
+    "paper-ripple": "Polymer/paper-ripple#^0.5"
   },
   "ignore": [
     "externs/**"
